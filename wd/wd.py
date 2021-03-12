@@ -261,5 +261,3 @@ def glamurny_carlik():
     get_graf()
     print('End WhiteDwarf')
 
-
-glamurny_carlik()
